@@ -11,7 +11,7 @@ User对于Add File、Download Code、Go To File是依赖关系
 建模思路	1.Administrator和User当登录GitHub之后可以进行查找和修改文件
 参与者Administrator可直接对文件进行修改，还可以查看其他用户对此文件的修改请求并进行审批。同时Administrator还可以在仓库中设计专案并对仓库中文件设置安全策略等
 2.参与者User 可以查找文件并提出对该文件的修改请求，等待项目管理员的审批
-![image]{https://github.com/nankeyimeng-cui/nankeyimeng-cui.github.io/blob/main/%E5%9B%BE%E7%89%871.png)
+- ![image]{https://github.com/nankeyimeng-cui/nankeyimeng-cui.github.io/blob/main/%E5%9B%BE%E7%89%871.png)
 
 - 用例名称	Add File
 用例说明	User和Administrator向项目中添加或更新文件
